@@ -6,5 +6,10 @@
 2. git克隆
 git clone git@github.com:xionghao5/NDRSDS.git
 
-3.git上传文件
+3.git基本操作
+参考:https://www.jianshu.com/p/501f22a5be43
+
+git add ./git add */git add 指定文件路径
+git commit -m "提交代码"
+git push origin develop
 
