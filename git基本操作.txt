@@ -1,0 +1,10 @@
+1.git的SSH秘钥
+
+没有这个，无法git clone 
+参考：https://blog.csdn.net/qq_36181310/article/details/88760623
+
+2. git克隆
+git clone git@github.com:xionghao5/NDRSDS.git
+
+3.git上传文件
+
